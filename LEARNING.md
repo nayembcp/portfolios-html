@@ -10,3 +10,9 @@
 3. History of HTml
 4. Advantages of HTML
 5. Environment setup
+
+    -Code Editor: VS Code
+    -Browser: Google Chrome
+    -Version Control: Git and GitHub
+
+6. Basic structure of HTML
